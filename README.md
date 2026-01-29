@@ -166,6 +166,47 @@ achievements:
 
 ---
 
+## 📦 Library Repository
+
+> 재사용 가능한 모듈 및 라이브러리를 정리한 저장소입니다. 각 카테고리별로 API 모듈과 유틸리티를 확인할 수 있습니다.
+
+<div align="center">
+
+### ⚡ FastAPI / AI
+
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/AlgoceanApiLib)
+[![AI API](https://img.shields.io/badge/AI_API-412991?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/AlgoceanApiLib)
+
+| Repository | Description | Tech Stack | Links |
+|:-------:|:------------|:----------:|:-----:|
+| [**AlgoceanApiLib**](https://github.com/AlgoceanApiLib) | AI API 키를 활용한 FastAPI 모듈 라이브러리 | `FastAPI` `Python` `AI API` | [GitHub](https://github.com/AlgoceanApiLib) |
+
+<br/>
+
+### 🍃 Spring Boot / Java
+
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](#)
+
+| Repository | Description | Tech Stack | Links |
+|:-------:|:------------|:----------:|:-----:|
+| **추가 예정** | Spring Boot 기반 모듈 라이브러리 | `Spring Boot` `Java` | [GitHub](#) [Demo](#) |
+
+<br/>
+
+### 📱 Flutter / Dart
+
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](#)
+[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](#)
+
+| Repository | Description | Tech Stack | Links |
+|:-------:|:------------|:----------:|:-----:|
+| **추가 예정** | Flutter 기반 모듈 라이브러리 | `Flutter` `Dart` | [GitHub](#) [Demo](#) |
+
+</div>
+
+---
+
 <div align="center">
 
 ### 🏅 Algorithm Level
