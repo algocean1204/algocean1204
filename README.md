@@ -73,6 +73,7 @@ achievements:
 
 | Project | Description | Tech Stack | Links |
 |:-------:|:------------|:----------:|:-----:|
+| **AI Auto Trading** | 미국 주식 자동매매 프로젝트 | `Flutter` `FastAPI` `claude SDK` | [GitHub](https://github.com/algocean1204/Auto_Trade_v1.git) |
 | **추가 프로젝트** | AI 관련 프로젝트 설명 | `PyTorch` `FastAPI` | [GitHub](#) [Demo](#) |
 
 <!-- 프로젝트 추가 예시:
