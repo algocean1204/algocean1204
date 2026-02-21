@@ -52,17 +52,6 @@ achievements:
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=algocean1204&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=algocean1204&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Most%20Used%20Languages" />
-
-</div>
-
----
-
 ## 📂 Projects
 
 > 프로젝트를 추가하려면 각 카테고리의 테이블에 새로운 행을 추가하세요.
