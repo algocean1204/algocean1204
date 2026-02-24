@@ -118,6 +118,9 @@ achievements:
 | [**Study_AI_Colab**](https://github.com/algocean1204/Study_AI_Colab) | Google Colab 기반 AI/ML 실습 단축키 정리 |
 | [**Study_AI_DataAnalysis**](https://github.com/algocean1204/Study_AI_DataAnalysis) | 데이터 분석 및 시각화 정리 |
 | [**AI_Study_LV_ALL_v1**](https://github.com/kimtaekyu1204/AI_Study_LV_ALL_v1) | 자연어처리(NLP) 공부 전체 정리 |
+| [**AI_Study with book**](https://github.com/MLSamdasu-Study) | 책으로 전공 공부하기 챌린지 |
+
+
 
 ### 💬 Language
 
