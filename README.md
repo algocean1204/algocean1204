@@ -58,12 +58,12 @@ achievements:
 
 <div align="center">
 
-### 🤖 AI Projects
+### 🤖 AI Projects with Hugging Face
 
 | Project | Description | Tech Stack | Links |
 |:-------:|:------------|:----------:|:-----:|
-| [**AI Auto Trading**](https://github.com/algocean1204/Auto_Trade_v1) | 미국 주식 자동매매 프로젝트 | `Flutter` `FastAPI` `postgreSQL` `Qwen3-30B-A3B 4bit` `claude SDK` | [GitHub](https://github.com/algocean1204/Auto_Trade_v1.git) |
-| [**Mac OCR APP**](https://github.com/algocean1204/Mac_OCR_APP.git) | Mac용 정확도 높은 PDF OCR 작업및 분할 프로그램 | `Flutter` `Python`  `PyMuPDF` `DeepSeek-OCR-2(MLX)` `reportlab` | [GitHub](https://github.com/algocean1204/Mac_OCR_APP.git) |
+| [**AI Auto Trading**](https://github.com/algocean1204/Auto_Trade_v1) | 주식 자동매매 프로젝트 | `Flutter` `FastAPI` `postgreSQL` `Qwen3-30B-A3B 4bit` `claude SDK` | [GitHub](https://github.com/algocean1204/Auto_Trade_v1.git) |
+| [**Mac OCR APP**](https://github.com/algocean1204/Mac_OCR_APP.git) | Mac용(MLX) 정확도 높은 PDF OCR 작업및 분할 프로그램 | `Flutter` `Python`  `PyMuPDF` `DeepSeek-OCR-2(MLX)` `reportlab` | [GitHub](https://github.com/algocean1204/Mac_OCR_APP.git) |
 | [**추가 프로젝트**]() | AI 관련 프로젝트 설명 | `PyTorch` `FastAPI` | [GitHub](#) [Demo](#) |
 
 
