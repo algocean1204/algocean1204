@@ -64,6 +64,8 @@ credentials:
 
 <!-- 프로젝트 추가 예시:
 | [**LLM Chatbot**](https://github.com/algocean1204/llm-chatbot) | GPT 기반 대화형 AI 챗봇 | `OpenAI` `LangChain` `FastAPI` | [GitHub](링크) [Demo](링크) |
+
+└──, ├──, │ 기호를 사용합니다.
 -->
 
 <br/>
@@ -73,7 +75,7 @@ credentials:
 | Project | Description | Tech Stack | Links |
 |:-------:|:------------|:----------:|:-----:|
 | [**클로드 코드 스킬북**](https://github.com/Claude-SkillBook-algocean) | 직접 만들어 사용하는 스킬들을 적은 폴더 | `Claude Code` | [GitHub](https://github.com/Claude-SkillBook-algocean) |
-| [** --- 👾 --- **] | 모듈식 설계도 제작 | `HTML` `md`  | [GitHub](https://github.com/Claude-SkillBook-algocean/Plan-Module-Architecture.git) |
+| └── | 모듈식 설계도 제작 | `HTML` `md`  | [GitHub](https://github.com/Claude-SkillBook-algocean/Plan-Module-Architecture.git) |
 | [**추가 프로젝트**]() | AI 관련 프로젝트 설명 | `PyTorch` `FastAPI` | [GitHub](#) [Demo](#) |
 
 
