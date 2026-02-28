@@ -34,19 +34,12 @@ identity:
 
 focus_areas:
   current: 🚀 AI/ML & Backend Development
-  interests: [LLM, Computer Vision, Mobile Apps]
+  interests: [LLM, Computer Vision]
 
 credentials:
   licenses:
     - 📝 Engineer Information Processing (Candidate)
 
-achievements:
-  🎯 Key Achievements:
-    ├── 🏆 Multiple AI/ML Projects deployed in production
-    │   └── 🚀 Full-stack applications with 10,000+ users
-    └── 📱 Mobile apps published on App Store & Play Store
-        └── ☁️ Cloud infrastructure management with AWS
-            └── 🤝 Active open-source contributor
 ```
 </div>
 
@@ -64,6 +57,8 @@ achievements:
 |:-------:|:------------|:----------:|:-----:|
 | [**AI Auto Trading**](https://github.com/algocean1204/Auto_Trade_v1) | 주식 자동매매 프로젝트 | `Flutter` `FastAPI` `postgreSQL` `Qwen3-30B-A3B 4bit` `claude SDK` | [GitHub](https://github.com/algocean1204/Auto_Trade_v1.git) |
 | [**Mac OCR APP**](https://github.com/algocean1204/Mac_OCR_APP.git) | Mac용(MLX) 정확도 높은 PDF OCR 작업및 분할 프로그램 | `Flutter` `Python`  `PyMuPDF` `DeepSeek-OCR-2(MLX)` `reportlab` | [GitHub](https://github.com/algocean1204/Mac_OCR_APP.git) |
+| [**Geulteo**](https://github.com/GeulteoProject) | 키워드 기반 상황별 글쓰기 AI 서비스 - 난이도 진단 및 개선 피드백 제공 | `React` `FastAPI` `MySQL` `Qdrant` | [GitHub](https://github.com/GeulteoProject) |
+| [**StyleLens**](https://github.com/algocean1204/StyleLens) | 3D 가상 피팅 앱 - AI 기반 의류 가상 착용 서비스 | `Flutter` `FastAPI` `Spring Boot` `HuggingFace` | [GitHub](https://github.com/algocean1204/StyleLens) |
 | [**추가 프로젝트**]() | AI 관련 프로젝트 설명 | `PyTorch` `FastAPI` | [GitHub](#) [Demo](#) |
 
 
@@ -72,25 +67,19 @@ achievements:
 -->
 
 <br/>
+### 👾 AI Agent & Skills
+| Project | Description | Tech Stack | Links |
+|:-------:|:------------|:----------:|:-----:|
+| [**클로드 코드 스킬북**](https://github.com/Claude-SkillBook-algocean) | 직접 만들어 사용하는 스킬들을 적은 폴더 | `Claude Code` | [GitHub](https://github.com/Claude-SkillBook-algocean) |
+| [** --- 👾 --- **] | 모듈식 설계도 제작 | `HTML` `md`  | [GitHub](https://github.com/Claude-SkillBook-algocean/Plan-Module-Architecture.git) |
+| [**추가 프로젝트**]() | AI 관련 프로젝트 설명 | `PyTorch` `FastAPI` | [GitHub](#) [Demo](#) |
 
-### 🌐 Web Projects
+
+
+### 📱 else Projects
 
 | Project | Description | Tech Stack | Links |
 |:-------:|:------------|:----------:|:-----:|
-| [**Geulteo**](https://github.com/GeulteoProject) | 키워드 기반 상황별 글쓰기 AI 서비스 - 난이도 진단 및 개선 피드백 제공 | `React` `FastAPI` `MySQL` `Qdrant` | [GitHub](https://github.com/GeulteoProject) |
-| **추가 프로젝트** | 새로운 웹 프로젝트 설명 | `Django` `PostgreSQL` | [GitHub](#) [Demo](#) |
-
-<!-- 프로젝트 추가 예시:
-| [**E-Commerce API**](https://github.com/algocean1204/ecommerce-api) | RESTful API 서버 | `Spring Boot` `JPA` `MySQL` | [GitHub](링크) [API Docs](링크) |
--->
-
-<br/>
-
-### 📱 Mobile Projects
-
-| Project | Description | Tech Stack | Links |
-|:-------:|:------------|:----------:|:-----:|
-| [**StyleLens**](https://github.com/algocean1204/StyleLens) | 3D 가상 피팅 앱 - AI 기반 의류 가상 착용 서비스 | `Flutter` `FastAPI` `Spring Boot` `HuggingFace` | [GitHub](https://github.com/algocean1204/StyleLens) |
 | [**ToEicWordList**](https://github.com/kimtaekyu1204/ToEicWordList) | 토익 영어 단어장 앱 | `Flutter` `Dart` | [GitHub](https://github.com/kimtaekyu1204/ToEicWordList) |
 | [**MyTODO**](https://github.com/kimtaekyu1204/MyTODO) | 맞춤형 일정 캘린더 앱 | `Flutter` `Dart` | [GitHub](https://github.com/kimtaekyu1204/MyTODO) |
 | **추가 프로젝트** | 새로운 모바일 프로젝트 설명 | `Flutter` `Firebase` | [GitHub](#) [Demo](#) |
@@ -142,21 +131,7 @@ achievements:
 |:----------:|:------------|
 | [**Study_CodingTest_Python**](https://github.com/algocean1204/Study_CodingTest_Python) | 파이썬 자료구조 및 알고리즘 이론과 문제 풀이 |
 
-### 🌐 Web Development
 
-[![Web Study](https://img.shields.io/badge/Web_Study-764BA2?style=for-the-badge&logo=react&logoColor=white)](https://github.com/algocean1204?tab=stars)
-
-| Repository | Description |
-|:----------:|:------------|
-| [**Study_Web**](#) | 웹 개발 학습 (추후 링크 추가) |
-
-### 📱 App Development
-
-[![App Study](https://img.shields.io/badge/App_Study-667EEA?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/algocean1204?tab=stars)
-
-| Repository | Description |
-|:----------:|:------------|
-| [**Study_App**](#) | 앱 개발 학습 (추후 링크 추가) |
 
 </div>
 
