@@ -58,7 +58,7 @@ credentials:
 | [**AI Auto Trading**](https://github.com/algocean1204/Auto_Trade_v1) | 주식 자동매매 프로젝트 | `Flutter` `FastAPI` `postgreSQL` `Qwen3-30B-A3B 4bit` `claude SDK` | [GitHub](https://github.com/algocean1204/Auto_Trade_v1.git) |
 | [**Mac OCR APP**](https://github.com/algocean1204/Mac_OCR_APP.git) | Mac용(MLX) 정확도 높은 PDF OCR 작업및 분할 프로그램 | `Flutter` `Python`  `PyMuPDF` `DeepSeek-OCR-2(MLX)` `reportlab` | [GitHub](https://github.com/algocean1204/Mac_OCR_APP.git) |
 | [**Geulteo**](https://github.com/GeulteoProject) | 키워드 기반 상황별 글쓰기 AI 서비스 - 난이도 진단 및 개선 피드백 제공 | `React` `FastAPI` `MySQL` `Qdrant` | [GitHub](https://github.com/GeulteoProject) |
-| [**StyleLens**](https://github.com/algocean1204/StyleLens) | 3D 가상 피팅 앱 - AI 기반 의류 가상 착용 서비스 | `Flutter` `FastAPI` `Spring Boot` `HuggingFace` | [GitHub](https://github.com/algocean1204/StyleLens) |
+| [**StyleLens**](https://github.com/StyleLens) | 3D 가상 피팅 앱 - AI 기반 의류 가상 착용 서비스 | `Flutter` `FastAPI` `Spring Boot` `HuggingFace` | [GitHub](https://github.com/StyleLens) |
 | [**추가 프로젝트**]() | AI 관련 프로젝트 설명 | `PyTorch` `FastAPI` | [GitHub](#) [Demo](#) |
 
 
