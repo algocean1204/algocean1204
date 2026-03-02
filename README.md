@@ -85,7 +85,6 @@ credentials:
 | Project | Description | Tech Stack | Links |
 |:-------:|:------------|:----------:|:-----:|
 | [**ToEicWordList**](https://github.com/kimtaekyu1204/ToEicWordList) | 토익 영어 단어장 앱 | `Flutter` `Dart` | [GitHub](https://github.com/kimtaekyu1204/ToEicWordList) |
-| [**MyTODO**](https://github.com/kimtaekyu1204/MyTODO) | 맞춤형 일정 캘린더 앱 | `Flutter` `Dart` | [GitHub](https://github.com/kimtaekyu1204/MyTODO) |
 | **추가 프로젝트** | 새로운 모바일 프로젝트 설명 | `Flutter` `Firebase` | [GitHub](#) [Demo](#) |
 
 <!-- 프로젝트 추가 예시:
