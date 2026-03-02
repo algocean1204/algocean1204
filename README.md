@@ -47,8 +47,6 @@ credentials:
 
 ## 📂 Projects
 
-> 프로젝트를 추가하려면 각 카테고리의 테이블에 새로운 행을 추가하세요.
-
 <div align="center">
 
 ### 🤖 AI Projects with Hugging Face
@@ -225,25 +223,23 @@ credentials:
 
 ## 🛠️ Tech Stack
 
-> 아래 기술 스택은 실제 프로젝트 경험을 바탕으로 작성되었습니다. 각 섹션에 기술을 추가하려면 skillicons.dev의 아이콘 이름을 참고하세요.
-
 <div align="center">
 
 ### 💬 Languages
 <!-- 언어 추가 방법: icons?i=java,python,kotlin,cpp 형식으로 콤마로 구분하여 추가 -->
-<img src="https://skillicons.dev/icons?i=java,python,kotlin,cpp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,cpp&theme=dark" />
 
 <br/><br/>
 
 ### 🚀 Frameworks
-<!-- 프레임워크 추가: Spring Boot, FastAPI, Django, Flutter -->
-<img src="https://skillicons.dev/icons?i=spring,fastapi,django,flutter&theme=dark" />
+<!-- 프레임워크 추가: Spring Boot, FastAPI, Flutter -->
+<img src="https://skillicons.dev/icons?i=spring,fastapi,flutter&theme=dark" />
 
 <br/><br/>
 
 ### 🤖 AI / ML
 <!-- AI 관련 기술: PyTorch, TensorFlow 등 -->
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
+<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" />
 <br/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
