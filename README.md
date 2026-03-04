@@ -53,8 +53,8 @@ credentials:
 
 | Project | Description | Tech Stack | Links |
 |:-------:|:------------|:----------:|:-----:|
-| [**AI Auto Trading**](https://github.com/algocean1204/Auto_Trade_v1) | 주식 자동매매 프로젝트 | `Flutter` `FastAPI` `postgreSQL` `Qwen3-30B-A3B 4bit` `claude SDK` | [GitHub](https://github.com/algocean1204/Auto_Trade_v1.git) |
-| [**Mac OCR APP**](https://github.com/algocean1204/Mac_OCR_APP.git) | Mac용(MLX) 정확도 높은 PDF OCR 작업및 분할 프로그램 | `Flutter` `Python`  `PyMuPDF` `DeepSeek-OCR-2(MLX)` `reportlab` | [GitHub](https://github.com/algocean1204/Mac_OCR_APP.git) |
+| [**AI Auto Trading**](https://github.com/algocean1204/Auto_Trade_v1) | 주식 자동매매 프로젝트 | `Flutter` `FastAPI` `postgreSQL` `Qwen3-30B-A3B 4bit` `claude SDK` | [GitHub](https://github.com/algocean1204/Auto_Trade_v1) |
+| [**Mac OCR APP**](https://github.com/algocean1204/Mac_OCR_APP) | Mac용(MLX) 정확도 높은 PDF OCR 작업및 분할 프로그램 | `Flutter` `Python`  `PyMuPDF` `DeepSeek-OCR-2(MLX)` `reportlab` | [GitHub](https://github.com/algocean1204/Mac_OCR_APP) |
 | [**Geulteo**](https://github.com/GeulteoProject) | 키워드 기반 상황별 글쓰기 AI 서비스 - 난이도 진단 및 개선 피드백 제공 | `React` `FastAPI` `MySQL` `Qdrant` | [GitHub](https://github.com/GeulteoProject) |
 | [**StyleLens**](https://github.com/StyleLens) | 3D 가상 피팅 앱 - AI 기반 의류 가상 착용 서비스 | `Flutter` `FastAPI` `Spring Boot` `HuggingFace` | [GitHub](https://github.com/StyleLens) |
 | [**추가 프로젝트**]() | AI 관련 프로젝트 설명 | `PyTorch` `FastAPI` | [GitHub](#) [Demo](#) |
@@ -73,7 +73,7 @@ credentials:
 | Project | Description | Tech Stack | Links |
 |:-------:|:------------|:----------:|:-----:|
 | [**클로드 코드 스킬북**](https://github.com/Claude-SkillBook-algocean) | 직접 만들어 사용하는 스킬들을 적은 폴더 | `Claude Code` | [GitHub](https://github.com/Claude-SkillBook-algocean) |
-| └── | 모듈식 설계도 제작 | `HTML` `md`  | [GitHub](https://github.com/Claude-SkillBook-algocean/Plan-Module-Architecture.git) |
+| └── | 모듈식 설계도 제작 | `HTML` `md`  | [GitHub](https://github.com/Claude-SkillBook-algocean/Plan-Module-Architecture) |
 | [**추가 프로젝트**]() | AI 관련 프로젝트 설명 | `PyTorch` `FastAPI` | [GitHub](#) [Demo](#) |
 
 
@@ -152,7 +152,8 @@ credentials:
 
 | Repository | Description | Tech Stack | Links |
 |:-------:|:------------|:----------:|:-----:|
-| [**AlgoceanApiLib**](https://github.com/AlgoceanApiLib) | AI API 키를 활용한 FastAPI 모듈 라이브러리 | `FastAPI` `Python` `AI API` | [GitHub](https://github.com/AlgoceanApiLib) |
+| [**AlgoceanApiLib**](https://github.com/AlgoceanApiLib) | API 모듈 라이브러리 | `FastAPI` `Python` `AI API` | [GitHub](https://github.com/AlgoceanApiLib) |
+| └── | 클로드 api,sdk,sub 연결 고성능 모듈 | `api`  | [GitHub](https://github.com/AlgoceanApiLib/claude-choice-module) |
 
 <br/>
 
