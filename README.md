@@ -108,7 +108,7 @@ credentials:
 | [**AlgoceanApiLib**](https://github.com/AlgoceanApiLib) | API 래핑 모듈 라이브러리 | `FastAPI` `Python` `API` | [GitHub](https://github.com/AlgoceanApiLib) |
 | └── | 클로드 api,sdk,sub 연결 고성능 모듈 | `api`  | [GitHub](https://github.com/AlgoceanApiLib/claude-choice-module) |
 | └── | 허깅페이스 모델 -> Modal GPU 쉬운 연결 모듈 | `api`  | [GitHub](https://github.com/AlgoceanApiLib/Modal_GPU_ez) |
-| ├── | └── LangChain 용 | `api`  | [GitHub]([https://github.com/AlgoceanApiLib/Modal_GPU_ez](https://github.com/AlgoceanApiLib/Langchain-modal-gpu-ez)) |
+| ├── | └── LangChain 용 | `LangChain`  | [GitHub](https://github.com/AlgoceanApiLib/Langchain-modal-gpu-ez) |
 
 <br/>
 
