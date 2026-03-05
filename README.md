@@ -152,7 +152,7 @@ credentials:
 
 | Repository | Description | Tech Stack | Links |
 |:-------:|:------------|:----------:|:-----:|
-| [**AlgoceanApiLib**](https://github.com/AlgoceanApiLib) | API 모듈 라이브러리 | `FastAPI` `Python` `AI API` | [GitHub](https://github.com/AlgoceanApiLib) |
+| [**AlgoceanApiLib**](https://github.com/AlgoceanApiLib) | API 래핑 모듈 라이브러리 | `FastAPI` `Python` `API` | [GitHub](https://github.com/AlgoceanApiLib) |
 | └── | 클로드 api,sdk,sub 연결 고성능 모듈 | `api`  | [GitHub](https://github.com/AlgoceanApiLib/claude-choice-module) |
 
 <br/>
