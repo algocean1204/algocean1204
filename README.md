@@ -74,8 +74,8 @@
 |:-------:|:------------|:----------:|:-----:|
 | [**AlgoceanApiLib**](https://github.com/AlgoceanApiLib) | AI 모델 호출을 위한 재사용 가능한 공통 서빙 라이브러리 (Apache 2.0) | `FastAPI` `Python` `Claude SDK` `HuggingFace` `Modal GPU` | [GitHub](https://github.com/AlgoceanApiLib) |
 | └── claude-choice-module | Claude API/SDK 고성능 연결 모듈 | `API` `SDK` | [GitHub](https://github.com/AlgoceanApiLib/claude-choice-module) |
-| └── Modal_GPU_ez | HuggingFace 모델 → Modal GPU 원클릭 배포 모듈 | `Modal` `HuggingFace` | [GitHub](https://github.com/AlgoceanApiLib/Modal_GPU_ez) |
-| &nbsp;&nbsp;&nbsp;&nbsp;└── Langchain-modal-gpu-ez | LangChain용 Modal GPU 연결 모듈 | `LangChain` `Modal` | [GitHub](https://github.com/AlgoceanApiLib/Langchain-modal-gpu-ez) |
+| └── Modal_GPU_ez | HuggingFace 모델 → Modal GPU 원클릭 배포 — `pip install modal-gpu-ez` | `Modal` `HuggingFace` | [GitHub](https://github.com/AlgoceanApiLib/Modal_GPU_ez) [![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/modal-gpu-ez/) |
+| &nbsp;&nbsp;&nbsp;&nbsp;└── Langchain-modal-gpu-ez | LangChain용 Modal GPU 연결 — `pip install langchain-modal-gpu-ez` | `LangChain` `Modal` | [GitHub](https://github.com/AlgoceanApiLib/Langchain-modal-gpu-ez) [![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/langchain-modal-gpu-ez/) |
 
 </td></tr></table>
 
