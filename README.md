@@ -143,44 +143,24 @@ tools:
 
 </td></tr></table>
 
-<table>
-<tr>
-<td align="center">
-<br>
+</div>
+
 <a href="https://github.com/algocean1204/project_List">
   <img src="https://img.shields.io/badge/📂_전체_프로젝트_&_라이브러리_목록_보기_(10개+)-Click-2962FF?style=for-the-badge" />
 </a>
-<br><br>
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 
 ## 📚 [Study Repository](https://github.com/algocean1204/study_List)
-
-<div align="center">
 
 | Repository | Description |
 |:----------:|:------------|
 | [**AI Study with Book**](https://github.com/MLSamdasu-Study) | 책으로 공부한것 정리 묶음 |
 | [**Study_language_Python**](https://github.com/algocean1204/Study_language_Python) | Python 문법 정리 |
 
-<table>
-<tr>
-<td align="center">
-<br>
 <a href="https://github.com/algocean1204/study_List">
   <img src="https://img.shields.io/badge/📚_전체_스터디_목록_보기_(8개+)-Click-6C63FF?style=for-the-badge" />
 </a>
-<br><br>
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 
