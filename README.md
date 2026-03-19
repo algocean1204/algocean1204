@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=280&section=header&text=algocean1204&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=AI%20Platform%20%26%20Serving%20Engineer&descSize=20&descAlignY=55)
+![header](https://raw.githubusercontent.com/algocean1204/algocean1204/main/assets/header.svg)
 
 <div align="center">
 
@@ -257,4 +257,4 @@ tools:
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer)
+![footer](https://raw.githubusercontent.com/algocean1204/algocean1204/main/assets/footer.svg)
