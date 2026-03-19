@@ -114,8 +114,9 @@
 
 | Project | Description | Tech Stack | Links |
 |:-------:|:------------|:----------:|:-----:|
-| [**Self LLM**](https://github.com/algocean1204/LLM-From-Scratch-and-FineTuning) | Transformer 밑바닥 구현 — Attention 메커니즘, LLM 구조 코드 레벨 이해 + HuggingFace 파인튜닝 | `PyTorch` `Transformer` `HuggingFace` | [GitHub](https://github.com/algocean1204/LLM-From-Scratch-and-FineTuning) |
-| [**AI_Study_LV_ALL_v1**](https://github.com/kimtaekyu1204/AI_Study_LV_ALL_v1) | AI/ML 전체 파이프라인 실습 — 모델 구축부터 파인튜닝까지 | `PyTorch` `HuggingFace` | [GitHub](https://github.com/kimtaekyu1204/AI_Study_LV_ALL_v1) |
+| [**Self LLM & Fine-Tuning**](https://github.com/algocean1204/LLM-From-Scratch-and-FineTuning) | Transformer 밑바닥 구현 — Attention 메커니즘, LLM 구조 코드 레벨 이해 + HuggingFace 파인튜닝 | `PyTorch` `Transformer` `HuggingFace` | [GitHub](https://github.com/algocean1204/LLM-From-Scratch-and-FineTuning) |
+| [**AI_Study_LV_ALL_v1**](https://github.com/kimtaekyu1204/AI_Study_LV_ALL_v1) | AI/ML 전체 파이프라인 실습 — 자연어처리(NLP) 전반 학습 정리 | `PyTorch` `HuggingFace` | [GitHub](https://github.com/kimtaekyu1204/AI_Study_LV_ALL_v1) |
+| [**Study_AI_DataAnalysis**](https://github.com/algocean1204/Study_AI_DataAnalysis) | 데이터 분석 및 시각화 정리 | `Python` `Pandas` | [GitHub](https://github.com/algocean1204/Study_AI_DataAnalysis) |
 
 </td></tr></table>
 
@@ -148,15 +149,11 @@
 
 > 전체 목록은 **[Study List](https://github.com/algocean1204/study_List)** 에서 확인할 수 있습니다.
 
-[![Data Analysis](https://img.shields.io/badge/Data_Analysis-764BA2?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/algocean1204/Study_AI_DataAnalysis)
-[![NLP](https://img.shields.io/badge/NLP-00D4AA?style=for-the-badge&logo=huggingface&logoColor=white)](https://github.com/kimtaekyu1204/AI_Study_LV_ALL_v1)
+[![Book](https://img.shields.io/badge/Book_Study-FF6F00?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/MLSamdasu-Study)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/algocean1204/Study_language_Python)
 
 | Repository | Description |
 |:----------:|:------------|
-| [**Study_AI_DataAnalysis**](https://github.com/algocean1204/Study_AI_DataAnalysis) | 데이터 분석 및 시각화 정리 |
-| [**AI_Study_LV_ALL_v1**](https://github.com/kimtaekyu1204/AI_Study_LV_ALL_v1) | AI/ML 전체 파이프라인 실습 — 자연어처리(NLP) 전반 학습 정리 |
-| [**Self LLM & Fine-Tuning**](https://github.com/algocean1204/LLM-From-Scratch-and-FineTuning) | 바닥부터 LLM 직접 만들기 + 카카오 모델 HuggingFace 파인튜닝 |
 | [**AI Study with Book**](https://github.com/MLSamdasu-Study) | 책으로 전공 공부하기 챌린지 |
 | [**Study_language_Python**](https://github.com/algocean1204/Study_language_Python) | Python 문법 정리 |
 
