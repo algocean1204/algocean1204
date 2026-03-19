@@ -215,22 +215,13 @@ tools:
 
 ---
 
-<div align="center">
-
-### 📊 Profile Views Counter
-
-![Profile Views](https://komarev.com/ghpvc/?username=algocean1204&color=667eea&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
----
-
 ## 📫 Connect with Me
 
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:algocean1204@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/algocean1204)
+![Profile Views](https://komarev.com/ghpvc/?username=algocean1204&color=667eea&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
