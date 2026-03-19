@@ -26,7 +26,7 @@
 </div>
 
 <div align="left" style="margin-top: 4px;">
-  <sub>Also experienced:</sub>
+  <sub>경험 있음:</sub>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" height="18"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" height="18"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="18"/>
@@ -36,20 +36,20 @@
 <div style="background-color: #f6f8fa; border: 1px solid #d0d7de; border-radius: 6px; padding: 16px; font-family: monospace;">
 
 ```yaml
-identity:
-  name: algocean1204
-  location: 🇰🇷 South Korea
-  education: 🎓 Department of Software
-  certification: 📝 Engineer Information Processing (정보처리기사)
+정보:
+  이름: algocean1204
+  위치: 🇰🇷 대한민국
+  학력: 🎓 소프트웨어학과
+  자격증: 📝 정보처리기사
 
-focus_areas:
-  current: 🚀 AI Platform & LLM Serving Engineering
-  building: 🔧 RAG Pipeline, Multi-Agent Orchestration, LLM Optimization
-  interests: [LLM Serving, Vector Search, Model Quantization]
+관심_분야:
+  현재: 🚀 AI 플랫폼 & LLM 서빙 엔지니어링
+  구축중: 🔧 RAG 파이프라인, 멀티 에이전트 오케스트레이션, LLM 최적화
+  관심사: [LLM 서빙, 벡터 검색, 모델 양자화]
 
-tools:
-  ai_dev: [Claude Code, MCP, Cursor AI]
-  languages: [Python, Java, Go (basic)]
+도구:
+  AI_개발: [Claude Code, MCP, Cursor AI]
+  언어: [Python, Java, Go (기초)]
 ```
 </div>
 
