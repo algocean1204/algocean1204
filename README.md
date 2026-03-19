@@ -16,23 +16,6 @@
 
 ## 👨‍💻 About Me
 
-```yaml
-정보:
-  이름: algocean1204
-  위치: 🇰🇷 대한민국
-  학력: 🎓 소프트웨어학과
-  자격증: 📝 정보처리기사
-
-관심_분야:
-  현재: 🚀 AI 플랫폼 & LLM 서빙 엔지니어링
-  구축중: 🔧 RAG 파이프라인, 멀티 에이전트 오케스트레이션, LLM 최적화
-  관심사: [LLM 서빙, 벡터 검색, 모델 양자화]
-
-도구:
-  AI_개발: [Claude Code, MCP, Cursor AI]
-  언어: [Python, Java]
-```
-
 **Core**&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
@@ -51,6 +34,23 @@
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+
+```yaml
+정보:
+  이름: algocean1204
+  위치: 🇰🇷 대한민국
+  학력: 🎓 소프트웨어학과
+  자격증: 📝 정보처리기사
+
+관심_분야:
+  현재: 🚀 AI 플랫폼 & LLM 서빙 엔지니어링
+  구축중: 🔧 RAG 파이프라인, 멀티 에이전트 오케스트레이션, LLM 최적화
+  관심사: [LLM 서빙, 벡터 검색, 모델 양자화]
+
+도구:
+  AI_개발: [Claude Code, MCP, Cursor AI]
+  언어: [Python, Java]
+```
 
 ---
 
