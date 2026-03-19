@@ -65,7 +65,7 @@
 
 <!-- ═══════════════ 카드 1: AI Platform & Library ═══════════════ -->
 
-<table><tr><td align="center">
+<table><tr><td>
 
 ### 🔧 AI Platform & Library
 
@@ -81,12 +81,12 @@
 </td></tr></table>
 
 <p align="center">
-<img src="https://img.shields.io/badge/⛓️-667EEA?style=flat-square" height="30"/>
+<img src="https://raw.githubusercontent.com/algocean1204/algocean1204/main/assets/chain.svg" height="40"/>
 </p>
 
 <!-- ═══════════════ 카드 2: AI Service Projects ═══════════════ -->
 
-<table><tr><td align="center">
+<table><tr><td>
 
 ### 🤖 AI Service Projects
 
@@ -101,12 +101,12 @@
 </td></tr></table>
 
 <p align="center">
-<img src="https://img.shields.io/badge/⛓️-667EEA?style=flat-square" height="30"/>
+<img src="https://raw.githubusercontent.com/algocean1204/algocean1204/main/assets/chain.svg" height="40"/>
 </p>
 
 <!-- ═══════════════ 카드 3: AI Research & Study ═══════════════ -->
 
-<table><tr><td align="center">
+<table><tr><td>
 
 ### 🧠 AI Research & Study
 
@@ -120,12 +120,12 @@
 </td></tr></table>
 
 <p align="center">
-<img src="https://img.shields.io/badge/⛓️-667EEA?style=flat-square" height="30"/>
+<img src="https://raw.githubusercontent.com/algocean1204/algocean1204/main/assets/chain.svg" height="40"/>
 </p>
 
 <!-- ═══════════════ 카드 4: AI Agent & Skills ═══════════════ -->
 
-<table><tr><td align="center">
+<table><tr><td>
 
 ### 👾 AI Agent & Skills
 
