@@ -164,15 +164,18 @@ tools:
 
 ---
 
-<div align="center">
-
-### 🏅 Algorithm Level
+<table>
+<tr>
+<td align="center">
+<br>
+<strong>🏅 Algorithm Level</strong>
+<br><br>
 <img src="https://img.shields.io/badge/Baekjoon-Gold-FFD700?style=for-the-badge&logo=codewars&logoColor=white" />
 <img src="https://img.shields.io/badge/Solved.ac-Gold-FFD700?style=for-the-badge&logo=solvedac&logoColor=white" />
-
-</div>
-
----
+<br><br>
+</td>
+</tr>
+</table>
 
 ---
 
