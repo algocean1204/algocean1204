@@ -14,26 +14,7 @@
 
 ---
 
-## 👨‍💻 About Me & Achievements
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-</div>
-
-<div align="left" style="margin-top: 4px;">
-  <sub>경험 있음:</sub>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" height="18"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" height="18"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="18"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" height="18"/>
-</div>
-
-<div style="background-color: #f6f8fa; border: 1px solid #d0d7de; border-radius: 6px; padding: 16px; font-family: monospace;">
+## 👨‍💻 About Me
 
 ```yaml
 정보:
@@ -51,7 +32,25 @@
   AI_개발: [Claude Code, MCP, Cursor AI]
   언어: [Python, Java]
 ```
-</div>
+
+**Core**&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Qdrant-DC382D?style=flat-square"/>
+
+**Infra**&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+
+**Experienced**&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 
 ---
 
@@ -117,6 +116,7 @@
 | [**Self LLM & Fine-Tuning**](https://github.com/algocean1204/LLM-From-Scratch-and-FineTuning) | Transformer 밑바닥 구현 — Attention 메커니즘, LLM 구조 코드 레벨 이해 + HuggingFace 파인튜닝 | `PyTorch` `Transformer` `HuggingFace` | [GitHub](https://github.com/algocean1204/LLM-From-Scratch-and-FineTuning) |
 | [**AI_Study_LV_ALL_v1**](https://github.com/kimtaekyu1204/AI_Study_LV_ALL_v1) | AI/ML 전체 파이프라인 실습 — 자연어처리(NLP) 전반 학습 정리 | `PyTorch` `HuggingFace` | [GitHub](https://github.com/kimtaekyu1204/AI_Study_LV_ALL_v1) |
 | [**Study_AI_DataAnalysis**](https://github.com/algocean1204/Study_AI_DataAnalysis) | 데이터 분석 및 시각화 정리 | `Python` `Pandas` | [GitHub](https://github.com/algocean1204/Study_AI_DataAnalysis) |
+| [**LangChain + MLX**](https://github.com/MLSamdasu/Langchain-MLX-self-study) | LangChain + Apple Silicon MLX 로컬 LLM — RAG, Agent, 멀티모델 오케스트레이션 | `LangChain` `MLX` `Qwen3.5` `DeepSeek-R1` | [GitHub](https://github.com/MLSamdasu/Langchain-MLX-self-study) |
 
 </td></tr></table>
 
@@ -170,35 +170,6 @@
 </div>
 
 ---
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### 🔥 Core
-<img src="https://skillicons.dev/icons?i=python,pytorch,fastapi&theme=dark" />
-<br/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/Qdrant-DC382D?style=for-the-badge" />
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-
-<br/><br/>
-
-### 🛠️ Infrastructure & Tools
-<img src="https://skillicons.dev/icons?i=docker,git,linux&theme=dark" />
-<br/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /> <sub>(Learning)</sub>
-<br/>
-<img src="https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-
-<br/><br/>
-
-### 📚 Also Experienced
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgresql&theme=dark" />
-<br/>
-
-</div>
 
 ---
 
