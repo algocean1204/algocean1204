@@ -191,16 +191,6 @@ tools:
 
 ---
 
-<div align="center">
-
-### 📊 Profile Views Counter
-
-![Profile Views](https://komarev.com/ghpvc/?username=algocean1204&color=667eea&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -220,6 +210,16 @@ tools:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/algocean1204/algocean1204/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/algocean1204/algocean1204/output/github-contribution-grid-snake.svg" />
 </picture>
+
+</div>
+
+---
+
+<div align="center">
+
+### 📊 Profile Views Counter
+
+![Profile Views](https://komarev.com/ghpvc/?username=algocean1204&color=667eea&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
