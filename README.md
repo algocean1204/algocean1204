@@ -62,13 +62,9 @@ tools:
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 [Featured Projects](https://github.com/algocean1204/project_List)
 
 <div align="center">
-
-[![📂 전체 프로젝트 & 라이브러리 목록 보기 →](https://img.shields.io/badge/📂_전체_프로젝트_&_라이브러리_목록_보기_→-667EEA?style=for-the-badge)](https://github.com/algocean1204/project_List)
-
-<br/>
 
 <!-- ═══════════════ 카드 1: AI Platform & Library ═══════════════ -->
 
@@ -147,20 +143,22 @@ tools:
 
 </td></tr></table>
 
+> 📂 **과거 프로젝트 포함 전체 목록은 [Project & Library List (10개+) →](https://github.com/algocean1204/project_List) 에서 확인할 수 있습니다.**
+
 </div>
 
 ---
 
-## 📚 Study Repository
+## 📚 [Study Repository](https://github.com/algocean1204/study_List)
 
 <div align="center">
-
-[![📚 전체 스터디 목록 보기 →](https://img.shields.io/badge/📚_전체_스터디_목록_보기_→-764BA2?style=for-the-badge)](https://github.com/algocean1204/study_List)
 
 | Repository | Description |
 |:----------:|:------------|
 | [**AI Study with Book**](https://github.com/MLSamdasu-Study) | 책으로 공부한것 정리 묶음 |
 | [**Study_language_Python**](https://github.com/algocean1204/Study_language_Python) | Python 문법 정리 |
+
+> 📚 **알고리즘, 언어 문법 등 전체 스터디 목록은 [Study List (8개+) →](https://github.com/algocean1204/study_List) 에서 확인할 수 있습니다.**
 
 </div>
 
