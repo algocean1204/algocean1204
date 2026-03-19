@@ -66,7 +66,7 @@ tools:
 
 <div align="center">
 
-> 📋 전체 프로젝트 및 라이브러리 목록은 **[Project & Library List](https://github.com/algocean1204/project_List)** 에서 확인할 수 있습니다.
+[![📂 전체 프로젝트 & 라이브러리 목록 보기 →](https://img.shields.io/badge/📂_전체_프로젝트_&_라이브러리_목록_보기_→-667EEA?style=for-the-badge)](https://github.com/algocean1204/project_List)
 
 <br/>
 
@@ -155,10 +155,7 @@ tools:
 
 <div align="center">
 
-> 전체 목록은 **[Study List](https://github.com/algocean1204/study_List)** 에서 확인할 수 있습니다.
-
-[![Book](https://img.shields.io/badge/Book_Study-FF6F00?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/MLSamdasu-Study)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/algocean1204/Study_language_Python)
+[![📚 전체 스터디 목록 보기 →](https://img.shields.io/badge/📚_전체_스터디_목록_보기_→-764BA2?style=for-the-badge)](https://github.com/algocean1204/study_List)
 
 | Repository | Description |
 |:----------:|:------------|
