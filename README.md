@@ -153,7 +153,7 @@
 
 | Repository | Description |
 |:----------:|:------------|
-| [**Study_AI_Colab**](https://github.com/algocean1204/Study_AI_Colab) | Google Colab 기반 AI/ML 실습 정리 |
+| [**Study_AI_Colab**](https://github.com/algocean1204/Study_AI_Colab) | Google Colab 단축키 정리 |
 | [**Study_AI_DataAnalysis**](https://github.com/algocean1204/Study_AI_DataAnalysis) | 데이터 분석 및 시각화 정리 |
 
 </div>
