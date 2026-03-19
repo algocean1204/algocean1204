@@ -22,10 +22,12 @@
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/MLX-000000?style=flat-square&logo=apple&logoColor=white"/>
 <img src="https://img.shields.io/badge/Qdrant-DC382D?style=flat-square"/>
 
 **Infra**&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Modal-000000?style=flat-square"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 
@@ -36,20 +38,26 @@
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 
 ```yaml
-정보:
-  이름: algocean1204
-  위치: 🇰🇷 대한민국
-  학력: 🎓 소프트웨어학과
-  자격증: 📝 정보처리기사
+identity:
+  name: algocean1204
+  location: 🇰🇷 대한민국
+  education: 🎓 소프트웨어학과
+  certification: 📝 정보처리기사
 
-관심_분야:
-  현재: 🚀 AI 플랫폼 & LLM 서빙 엔지니어링
-  구축중: 🔧 RAG 파이프라인, 멀티 에이전트 오케스트레이션, LLM 최적화
-  관심사: [LLM 서빙, 벡터 검색, 모델 양자화]
+experience:
+  ai_model: 🧠 LLM 직접 구축(Self LLM) & HuggingFace Fine-tuning(LoRA)
+  serving: 🚀 MLX 로컬 LLM 서빙, FastAPI 비동기 API 구축
+  vector_search: 🔍 Qdrant 기반 하이브리드 검색(Dense+BM25) 구현
+  library: 📦 AI 서빙 라이브러리 설계 및 PyPI 배포 (modal-gpu-ez)
 
-도구:
-  AI_개발: [Claude Code, MCP, Cursor AI]
-  언어: [Python, Java]
+deep_dive:
+  platform: 🔧 RAG 파이프라인 & Multi-Agent 오케스트레이션
+  optimization: ⚡ 모델 양자화(AWQ/GPTQ) & Inference 최적화
+  infra: 🐳 Docker 기반 AI 서빙 인프라 설계
+
+tools:
+  dev: [VSCode, HuggingFace, Modal, Claude Code, MCP, Cursor AI]
+  languages: [Python, Java]
 ```
 
 ---
