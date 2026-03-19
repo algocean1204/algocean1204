@@ -148,13 +148,17 @@
 
 > 전체 목록은 **[Study List](https://github.com/algocean1204/study_List)** 에서 확인할 수 있습니다.
 
-[![AI Colab](https://img.shields.io/badge/AI_Colab-667EEA?style=for-the-badge&logo=googlecolab&logoColor=white)](https://github.com/algocean1204/Study_AI_Colab)
 [![Data Analysis](https://img.shields.io/badge/Data_Analysis-764BA2?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/algocean1204/Study_AI_DataAnalysis)
+[![NLP](https://img.shields.io/badge/NLP-00D4AA?style=for-the-badge&logo=huggingface&logoColor=white)](https://github.com/kimtaekyu1204/AI_Study_LV_ALL_v1)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/algocean1204/Study_language_Python)
 
 | Repository | Description |
 |:----------:|:------------|
-| [**Study_AI_Colab**](https://github.com/algocean1204/Study_AI_Colab) | Google Colab 단축키 정리 |
 | [**Study_AI_DataAnalysis**](https://github.com/algocean1204/Study_AI_DataAnalysis) | 데이터 분석 및 시각화 정리 |
+| [**AI_Study_LV_ALL_v1**](https://github.com/kimtaekyu1204/AI_Study_LV_ALL_v1) | AI/ML 전체 파이프라인 실습 — 자연어처리(NLP) 전반 학습 정리 |
+| [**Self LLM & Fine-Tuning**](https://github.com/algocean1204/LLM-From-Scratch-and-FineTuning) | 바닥부터 LLM 직접 만들기 + 카카오 모델 HuggingFace 파인튜닝 |
+| [**AI Study with Book**](https://github.com/MLSamdasu-Study) | 책으로 전공 공부하기 챌린지 |
+| [**Study_language_Python**](https://github.com/algocean1204/Study_language_Python) | Python 문법 정리 |
 
 </div>
 
