@@ -94,7 +94,7 @@
 
 | Project | Description | Tech Stack | Links |
 |:-------:|:------------|:----------:|:-----:|
-| [**Geulteo**](https://github.com/GeulteoProject) | Qdrant(Vector DB) 기반 하이브리드 검색 + 키워드 분석 AI 서비스 — 글쓰기 난이도 진단 및 피드백 | `FastAPI` `React` `Qdrant` `MySQL` | [GitHub](https://github.com/GeulteoProject) |
+| [**Geulteo**](https://github.com/GeulteoProject/BE) | Qdrant(Vector DB) 기반 하이브리드 검색 + 키워드 분석 AI 서비스 — 글쓰기 난이도 진단 및 피드백 | `FastAPI` `React` `Qdrant` `MySQL` | [GitHub](https://github.com/GeulteoProject/BE) |
 | [**Mac OCR APP**](https://github.com/algocean1204/Mac_OCR_APP) | Apple Silicon(MLX) 최적화 PDF OCR — 하드웨어 맞춤 모델 최적화로 로컬 추론 성능 극대화 | `Python` `MLX` `DeepSeek-OCR-2` `PyMuPDF` | [GitHub](https://github.com/algocean1204/Mac_OCR_APP) |
 | [**AI Auto Trading**](https://github.com/algocean1204/Auto_Trade_v1) | LLM 5종 + bge-m3 임베딩 모델 활용 AI 기반 주식 자동매매 시스템 | `FastAPI` `bge-m3` `Qwen2.5` `DeepSeek-R1` `Claude SDK` | [GitHub](https://github.com/algocean1204/Auto_Trade_v1) |
 
