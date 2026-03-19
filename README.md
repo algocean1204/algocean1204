@@ -49,7 +49,7 @@
 
 도구:
   AI_개발: [Claude Code, MCP, Cursor AI]
-  언어: [Python, Java, Go (기초)]
+  언어: [Python, Java]
 ```
 </div>
 
@@ -196,7 +196,6 @@
 ### 📚 Also Experienced
 <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgresql&theme=dark" />
 <br/>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> <sub>(basic)</sub>
 
 </div>
 
