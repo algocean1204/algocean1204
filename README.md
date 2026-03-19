@@ -159,7 +159,7 @@ tools:
 
 | Repository | Description |
 |:----------:|:------------|
-| [**AI Study with Book**](https://github.com/MLSamdasu-Study) | 책으로 전공 공부하기 챌린지 |
+| [**AI Study with Book**](https://github.com/MLSamdasu-Study) | 책으로 공부한것 정리 묶음 |
 | [**Study_language_Python**](https://github.com/algocean1204/Study_language_Python) | Python 문법 정리 |
 
 </div>
