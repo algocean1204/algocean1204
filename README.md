@@ -170,8 +170,7 @@ tools:
 <br>
 <strong>🏅 Algorithm Level</strong>
 <br><br>
-<img src="https://img.shields.io/badge/Baekjoon-Gold-FFD700?style=for-the-badge&logo=codewars&logoColor=white" />
-<img src="https://img.shields.io/badge/Solved.ac-Gold-FFD700?style=for-the-badge&logo=solvedac&logoColor=white" />
+<img src="https://img.shields.io/badge/Programmers-LV4-6F36C9?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyek0xMiAyMGMtNC40MSAwLTgtMy41OS04LThzMy41OS04IDgtOCA4IDMuNTkgOCA4LTMuNTkgOC04IDh6Ii8+PC9zdmc+&logoColor=white" />
 <br><br>
 </td>
 </tr>
