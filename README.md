@@ -21,44 +21,18 @@
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square"/>
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
 <img src="https://img.shields.io/badge/MLX-000000?style=flat-square&logo=apple&logoColor=white"/>
-<img src="https://img.shields.io/badge/Qdrant-DC382D?style=flat-square"/>
 
 **Infra**&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Modal-000000?style=flat-square"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 
 **Experienced**&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-
-```yaml
-identity:
-  name: algocean1204
-  location: 🇰🇷 대한민국
-  education: 🎓 소프트웨어학과
-  certification: 📝 정보처리기사
-
-experience:
-  ai_model: 🧠 LLM 직접 구축(Self LLM) & HuggingFace Fine-tuning(LoRA)
-  serving: 🚀 MLX 로컬 LLM 서빙, FastAPI 비동기 API 구축
-  vector_search: 🔍 Qdrant 기반 하이브리드 검색(Dense+BM25) 구현
-  library: 📦 AI 서빙 라이브러리 설계 및 PyPI 배포 (modal-gpu-ez)
-
-deep_dive:
-  platform: 🔧 RAG 파이프라인 & Multi-Agent 오케스트레이션
-  optimization: ⚡ 모델 양자화(AWQ/GPTQ) & Inference 최적화
-  infra: 🐳 Docker 기반 AI 서빙 인프라 설계
-
-tools:
-  dev: [VSCode, HuggingFace, Modal, Claude Code, MCP, Cursor AI]
-  languages: [Python, Java]
-```
 
 ---
 
@@ -76,10 +50,7 @@ tools:
 
 | Project | Description | Tech Stack | Links |
 |:-------:|:------------|:----------:|:-----:|
-| [**AlgoceanApiLib**](https://github.com/AlgoceanApiLib) | AI 모델 서빙을 위한 재사용 가능한 플랫폼 라이브러리 — PyPI 배포 패키지 포함 (Apache 2.0) | `FastAPI` `Python` `Claude SDK` `HuggingFace` `Modal GPU` | [GitHub](https://github.com/AlgoceanApiLib) |
-| └── claude-choice-module | Claude API/SDK 고성능 연결 모듈 | `API` `SDK` | [GitHub](https://github.com/AlgoceanApiLib/claude-choice-module) |
-| └── Modal_GPU_ez | HuggingFace 모델 → Modal GPU 원클릭 배포 — `pip install modal-gpu-ez` | `Modal` `HuggingFace` | [GitHub](https://github.com/AlgoceanApiLib/Modal_GPU_ez) [![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/modal-gpu-ez/) |
-| &nbsp;&nbsp;&nbsp;&nbsp;└── Langchain-modal-gpu-ez | LangChain용 Modal GPU 연결 — `pip install langchain-modal-gpu-ez` | `LangChain` `Modal` | [GitHub](https://github.com/AlgoceanApiLib/Langchain-modal-gpu-ez) [![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/langchain-modal-gpu-ez/) |
+| [**AlgoceanCodexOAuth**](https://github.com/algocean1204/AlgoceanCodexOAuth) | LangChain/LangGraph에서 `ChatOpenAI` 자리에 그대로 꽂는 LLM 래퍼 — OAuth(Codex CLI + ChatGPT 구독) / API key 선택 · PyPI 배포 (MIT) | `Python` `LangChain` `LangGraph` `Codex` | [GitHub](https://github.com/algocean1204/AlgoceanCodexOAuth) [![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/algocean-codex-oauth/) |
 
 </td></tr></table>
 
@@ -97,6 +68,7 @@ tools:
 
 | Project | Description | Tech Stack | Links |
 |:-------:|:------------|:----------:|:-----:|
+| [**일과 (SW-ilgwa)**](https://github.com/algocean1204/SW-ilgwa) | 주제·PDF만 주면 강의·슬라이드·음성 수업·시험·노트까지 생성하는 AI 학습 데스크 — Modal B200 자체 모델 상주 구동(외부 LLM API 미사용) + PDF OCR → Qdrant 하이브리드 RAG | `React` `Spring Boot` `FastAPI` `Qdrant` `Modal GPU` `LangGraph` | [GitHub](https://github.com/algocean1204/SW-ilgwa) [Demo](https://algocean1204.github.io/SW-ilgwa/) |
 | [**Geulteo**](https://github.com/GeulteoProject/BE) | Qdrant(Vector DB) 기반 하이브리드 검색 + 키워드 분석 AI 서비스 — 글쓰기 난이도 진단 및 피드백 | `FastAPI` `React` `Qdrant` `MySQL` | [GitHub](https://github.com/GeulteoProject/BE) |
 | [**Mac OCR APP**](https://github.com/algocean1204/Mac_OCR_APP) | Apple Silicon(MLX) 최적화 PDF OCR — 하드웨어 맞춤 모델 최적화로 로컬 추론 성능 극대화 | `Python` `MLX` `DeepSeek-OCR-2` `PyMuPDF` | [GitHub](https://github.com/algocean1204/Mac_OCR_APP) |
 | ┗ [**Mac OCR APP Light**](https://github.com/algocean1204/Mac_OCR_APP_light) | Mac OCR APP 경량 버전 — 핵심 OCR 기능만 추출하여 빠르고 가볍게 사용 | `Python` `MLX` `DeepSeek-OCR-2` | [GitHub](https://github.com/algocean1204/Mac_OCR_APP_light) |
@@ -144,6 +116,25 @@ tools:
 
 </td></tr></table>
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/algocean1204/algocean1204/main/assets/chain.svg" height="40"/>
+</p>
+
+<!-- ═══════════════ 카드 5: HuggingFace Models ═══════════════ -->
+
+<table><tr><td>
+
+### 🤗 HuggingFace Models
+
+<br/>
+
+| Model | Description | Type | Links |
+|:-------:|:------------|:----------:|:-----:|
+| [**algocean-2.1B-nano-friend**](https://huggingface.co/aisamdasu/algocean-2.1B-nano-friend) | kakao `kanana-nano-2.1b-instruct`에 LoRA SFT한 한국어 companion 대화 어댑터 — 감정 공감·친구 말투 강화, eval loss −24% (약 22만 줄 학습) | `LoRA/PEFT` `Korean` `2.1B` | [🤗 HF](https://huggingface.co/aisamdasu/algocean-2.1B-nano-friend) |
+| [**algocean-v1-2B-ko**](https://huggingface.co/aisamdasu/algocean-v1-2B-ko) | 한국어 위주 2B 언어 모델 | `Korean` `2B` `text-generation` | [🤗 HF](https://huggingface.co/aisamdasu/algocean-v1-2B-ko) |
+
+</td></tr></table>
+
 </div>
 
 <a href="https://github.com/algocean1204/project_List">
@@ -162,20 +153,6 @@ tools:
 <a href="https://github.com/algocean1204/study_List">
   <img src="https://img.shields.io/badge/📚_전체_스터디_목록_보기_(8개+)-Click-6C63FF?style=for-the-badge" />
 </a>
-
----
-
-<table>
-<tr>
-<td align="center">
-<br>
-<strong>🏅 Algorithm Level</strong>
-<br><br>
-<img src="https://img.shields.io/badge/Programmers-LV4-6F36C9?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyek0xMiAyMGMtNC40MSAwLTgtMy41OS04LThzMy41OS04IDgtOCA4IDMuNTkgOCA4LTMuNTkgOC04IDh6Ii8+PC9zdmc+&logoColor=white" />
-<br><br>
-</td>
-</tr>
-</table>
 
 ---
 
