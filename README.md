@@ -9,6 +9,7 @@
 ![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge)
 ![vLLM](https://img.shields.io/badge/vLLM-30A2FF?style=for-the-badge&logo=vllm&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
+![AI Agent](https://img.shields.io/badge/AI_Agent-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
 ### Knowledgeable
 ![llama.cpp](https://img.shields.io/badge/llama.cpp-000000?style=for-the-badge)
