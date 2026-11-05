@@ -39,7 +39,7 @@
 
 | 프로젝트 | 소개 | 스택 |
 |:--|:--|:--|
-| [**일과 (SW-ilgwa)**](https://github.com/algocean1204/SW-ilgwa) | 전공 PDF로 강의, 음성 수업, 모의고사를 만드는 AI 과외 플랫폼 · [서비스](https://algocean1204.github.io/SW-ilgwa/) | `FastAPI` `LangGraph` `vLLM` `Qdrant` |
+| [**일과 (SW-ilgwa)**](https://github.com/algocean1204/SW-ilgwa) | 전공 PDF로 강의, 음성 수업, 모의고사를 만드는 AI 과외 플랫폼 · [서비스](https://algocean1204.github.io/SW-ilgwa/) | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white) ![vLLM](https://img.shields.io/badge/vLLM-30A2FF?style=flat-square&logo=vllm&logoColor=white) ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white) ![GPU Serving](https://img.shields.io/badge/GPU_Serving-76B900?style=flat-square&logo=nvidia&logoColor=white) ![Qwen3-TTS](https://img.shields.io/badge/Qwen3--TTS-615CED?style=flat-square&logo=qwen&logoColor=white) |
 
 <hr>
 
@@ -48,7 +48,7 @@
 | 프로젝트 | 소개 |
 |:--|:--|
 | [**내 친구 민수**](https://github.com/algocean1204/emotion-healer) | 사용자의 대화와 맞춤으로 오랜 친구 같은 느낌을 주는 AI 친구 |
-| [**AlgoceanCodexOAuth**](https://github.com/algocean1204/AlgoceanCodexOAuth) | LangChain용 Codex OAuth LLM 래퍼 · [PyPI](https://pypi.org/project/algocean-codex-oauth/) |
+| [**AlgoceanCodexOAuth**](https://github.com/algocean1204/AlgoceanCodexOAuth) | LangGraph용 Codex OAuth LLM 래퍼 · [PyPI](https://pypi.org/project/algocean-codex-oauth/) |
 | [**AI Dashboard**](https://github.com/algocean1204/mlx-benchmark-dashboard) | 로컬 AI 모델 성능 측정 앱 |
 | [**Mac OCR APP**](https://github.com/algocean1204/Mac_OCR_APP) | 로컬 AI 모델로 스캔 PDF를 OCR하는 macOS 앱 |
 | [**FastOCR**](https://github.com/algocean1204/Mac_OCR_APP_light) | Mac OCR APP 경량판 |
