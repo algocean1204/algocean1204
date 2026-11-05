@@ -41,7 +41,7 @@
 
 | 프로젝트 | 소개 | 스택 |
 |:--|:--|:--|
-| [**Clonamic**](https://github.com/clonamic) | Claude Code, Codex, Cursor에서 쓰는 AI 에이전트 스킬·플러그인 모음 | ![AI Agent](https://img.shields.io/badge/AI_Agent-D97757?style=flat-square&logo=claude&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claudecode&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [**Clonamic**](https://github.com/clonamic) | AI Agent에서 사용하는 하네스, 플러그인, 스킬 모음 | ![AI Agent](https://img.shields.io/badge/AI_Agent-D97757?style=flat-square&logo=claude&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white) |
 | [**일과 (SW-ilgwa)**](https://github.com/algocean1204/SW-ilgwa) | 전공 PDF로 강의, 음성 수업, 모의고사를 만드는 AI 과외 플랫폼 · [서비스](https://algocean1204.github.io/SW-ilgwa/) | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white) ![vLLM](https://img.shields.io/badge/vLLM-30A2FF?style=flat-square&logo=vllm&logoColor=white) ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white) ![GPU Serving](https://img.shields.io/badge/GPU_Serving-76B900?style=flat-square&logo=nvidia&logoColor=white) ![Qwen3-TTS](https://img.shields.io/badge/Qwen3--TTS-615CED?style=flat-square&logo=qwen&logoColor=white) |
 
 <hr>
