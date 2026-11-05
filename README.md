@@ -50,7 +50,7 @@
 
 | 프로젝트 | 소개 |
 |:--|:--|
-| [**StyleLens**](https://github.com/StyleLens/AI_FastAPI) | 사진 한 장으로 3D 아바타를 만들고 옷을 8개 각도로 입혀 보는 가상 피팅 AI |
+| [**StyleLens**](https://github.com/StyleLens/AI_FastAPI) | 다각도로 찍은 영상으로 3D 아바타를 만들고 옷을 8개 각도로 입혀 보는 가상 피팅 AI |
 | [**글터**](https://github.com/GeulteoProject/BE) | 키워드로 상황별 문장을 만들고 피드백하는 글쓰기 AI |
 | [**내 친구 민수**](https://github.com/algocean1204/emotion-healer) | 사용자의 대화와 맞춤으로 오랜 친구 같은 느낌을 주는 AI 친구 |
 | [**AlgoceanCodexOAuth**](https://github.com/algocean1204/AlgoceanCodexOAuth) | LangGraph용 Codex OAuth LLM 래퍼 · [PyPI](https://pypi.org/project/algocean-codex-oauth/) |
