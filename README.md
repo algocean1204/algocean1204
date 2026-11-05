@@ -47,12 +47,13 @@
 
 | 프로젝트 | 소개 |
 |:--|:--|
+| [**글터**](https://github.com/GeulteoProject/BE) | 키워드로 상황별 문장을 만들고 피드백하는 글쓰기 AI |
 | [**내 친구 민수**](https://github.com/algocean1204/emotion-healer) | 사용자의 대화와 맞춤으로 오랜 친구 같은 느낌을 주는 AI 친구 |
 | [**AlgoceanCodexOAuth**](https://github.com/algocean1204/AlgoceanCodexOAuth) | LangGraph용 Codex OAuth LLM 래퍼 · [PyPI](https://pypi.org/project/algocean-codex-oauth/) |
-| [**AI Dashboard**](https://github.com/algocean1204/mlx-benchmark-dashboard) | 로컬 AI 모델 성능 측정 앱 |
 | [**Mac OCR APP**](https://github.com/algocean1204/Mac_OCR_APP) | 로컬 AI 모델로 스캔 PDF를 OCR하는 macOS 앱 |
-| [**FastOCR**](https://github.com/algocean1204/Mac_OCR_APP_light) | Mac OCR APP 경량판 |
+| [**AI Dashboard**](https://github.com/algocean1204/mlx-benchmark-dashboard) | 로컬 AI 모델 성능 측정 앱 |
 | [**LLM From Scratch**](https://github.com/algocean1204/LLM-From-Scratch-and-FineTuning) | GPT 직접 구현과 Kanana 미세조정 실습 |
+| [**FastOCR**](https://github.com/algocean1204/Mac_OCR_APP_light) | Mac OCR APP 경량판 |
 | [**Vocab Master**](https://github.com/algocean1204/WordList_web) | TOEIC·TEPS 단어 학습 웹 앱 · [서비스](https://algocean1204.github.io/WordList_web/) |
 
 ![footer](https://raw.githubusercontent.com/algocean1204/algocean1204/main/assets/footer.svg)
