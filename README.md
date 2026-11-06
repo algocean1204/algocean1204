@@ -19,6 +19,7 @@
 ![vLLM](https://img.shields.io/badge/vLLM-30A2FF?style=for-the-badge&logo=vllm&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
 ![AI Agent](https://img.shields.io/badge/AI_Agent-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Multi-Agent Orchestration](https://img.shields.io/badge/Multi--Agent_Orchestration-1C3C3C?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI+PGcgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjEuNiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBmaWxsPSJub25lIj48cGF0aCBkPSJNMTIgNlYxMC41TTMgMTAuNUgyMU0zIDEwLjVWMTguNU05IDEwLjVWMTguNU0xNSAxMC41VjE4LjVNMjEgMTAuNVYxOC41Ii8+PC9nPjxjaXJjbGUgY3g9IjEyIiBjeT0iMy40IiByPSIzLjIiLz48Y2lyY2xlIGN4PSIzIiBjeT0iMjAuOCIgcj0iMi4yIi8+PGNpcmNsZSBjeD0iOSIgY3k9IjIwLjgiIHI9IjIuMiIvPjxjaXJjbGUgY3g9IjE1IiBjeT0iMjAuOCIgcj0iMi4yIi8+PGNpcmNsZSBjeD0iMjEiIGN5PSIyMC44IiByPSIyLjIiLz48L3N2Zz4K)
 
 ### Knowledgeable
 ![llama.cpp](https://img.shields.io/badge/llama.cpp-000000?style=for-the-badge)
@@ -26,6 +27,21 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### AI Tools
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claudecode&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cmVjdCB4PSIxLjUiIHk9IjMiIHdpZHRoPSIyMSIgaGVpZ2h0PSIxOCIgcng9IjMiLz48cGF0aCBkPSJNNiA5bDQgMy00IDMiLz48cGF0aCBkPSJNMTIuNSAxNmg1Ii8+PC9zdmc+Cg==)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white)
+![Grok Bot](https://img.shields.io/badge/Grok_Bot-000000?style=for-the-badge&logo=x&logoColor=white)
+
+### Standards
+![AGENTS.md](https://img.shields.io/badge/AGENTS.md-333333?style=for-the-badge&logo=markdown&logoColor=white)
+![Agent Skills](https://img.shields.io/badge/Agent_Skills-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Agent Plugins](https://img.shields.io/badge/Agent_Plugins-333333?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI+PHJlY3QgeD0iNyIgeT0iMS41IiB3aWR0aD0iMi40IiBoZWlnaHQ9IjYiIHJ4PSIxIi8+PHJlY3QgeD0iMTQuNiIgeT0iMS41IiB3aWR0aD0iMi40IiBoZWlnaHQ9IjYiIHJ4PSIxIi8+PHBhdGggZD0iTTQuNSA3LjVoMTV2My41YTcuNSA3LjUgMCAwIDEtNiA3LjM1VjIyLjVoLTN2LTQuMTVBNy41IDcuNSAwIDAgMSA0LjUgMTF6Ii8+PC9zdmc+Cg==)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
 
 <hr>
 
