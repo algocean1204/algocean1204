@@ -19,7 +19,8 @@
 ![vLLM](https://img.shields.io/badge/vLLM-30A2FF?style=for-the-badge&logo=vllm&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
 ![AI Agent](https://img.shields.io/badge/AI_Agent-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![Multi-Agent Orchestration](https://img.shields.io/badge/Multi--Agent_Orchestration-1C3C3C?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI+PGcgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjEuNiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBmaWxsPSJub25lIj48cGF0aCBkPSJNMTIgNlYxMC41TTMgMTAuNUgyMU0zIDEwLjVWMTguNU05IDEwLjVWMTguNU0xNSAxMC41VjE4LjVNMjEgMTAuNVYxOC41Ii8+PC9nPjxjaXJjbGUgY3g9IjEyIiBjeT0iMy40IiByPSIzLjIiLz48Y2lyY2xlIGN4PSIzIiBjeT0iMjAuOCIgcj0iMi4yIi8+PGNpcmNsZSBjeD0iOSIgY3k9IjIwLjgiIHI9IjIuMiIvPjxjaXJjbGUgY3g9IjE1IiBjeT0iMjAuOCIgcj0iMi4yIi8+PGNpcmNsZSBjeD0iMjEiIGN5PSIyMC44IiByPSIyLjIiLz48L3N2Zz4K)
+![Multi-Agent Orchestration](https://img.shields.io/badge/Multi--Agent_Orchestration-1C3C3C?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI+PHJlY3QgeD0iMS41IiB5PSI5IiB3aWR0aD0iNiIgaGVpZ2h0PSI2IiByeD0iMS41Ii8+PHJlY3QgeD0iMTYuNSIgeT0iMi41IiB3aWR0aD0iNiIgaGVpZ2h0PSI2IiByeD0iMS41Ii8+PHJlY3QgeD0iMTYuNSIgeT0iMTUuNSIgd2lkdGg9IjYiIGhlaWdodD0iNiIgcng9IjEuNSIvPjxwYXRoIGQ9Ik03LjUgMTJoNC41TTEyIDEyVjUuNWg0LjVNMTIgMTJ2Ni41aDQuNSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjEuOCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+PC9zdmc+Cg==)
+![AX Automation](https://img.shields.io/badge/AX_Automation-0B6E4F?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTIwIDExYTggOCAwIDAgMC0xNC4zLTQuOSIvPjxwYXRoIGQ9Ik01LjUgMi41djMuOGgzLjgiLz48cGF0aCBkPSJNNCAxM2E4IDggMCAwIDAgMTQuMyA0LjkiLz48cGF0aCBkPSJNMTguNSAyMS41di0zLjhoLTMuOCIvPjxwYXRoIGQ9Ik0xMi44IDcuNSAxMCAxMi41aDRsLTIuOCA1IiBmaWxsPSJub25lIi8+PC9zdmc+Cg==)
 
 ### Knowledgeable
 ![llama.cpp](https://img.shields.io/badge/llama.cpp-000000?style=for-the-badge)
@@ -36,6 +37,7 @@
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white)
 ![Grok Bot](https://img.shields.io/badge/Grok_Bot-000000?style=for-the-badge&logo=x&logoColor=white)
+![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-1F1F1F?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI+PHBhdGggZD0iTTIgMTQuNUM2IDE0LjUgOS41IDEyLjUgMTIgOWMxLjYtMi4zIDMuMy00LjYgNi02LjUgMS41LTEgMy4yLTEuMiA0LS44LS4zIDEuOC0xLjQgMy40LTMgNC42IDEuNC4yIDIuMi45IDIuNCAxLjYtMS41LjktMy4xIDEuMi00LjYgMSAxLjEuNiAxLjYgMS40IDEuNiAyLjEtMS42LjUtMy4zLjQtNC43LS4yLjYuOC44IDEuNi42IDIuMy0yLjEuMi00LS40LTUuMy0xLjZDNy4zIDE0LjYgNC43IDE2IDIgMTYuNXoiLz48cGF0aCBkPSJNNSAxOS41aDExIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+PC9zdmc+Cg==)
 
 ### Standards
 ![AGENTS.md](https://img.shields.io/badge/AGENTS.md-333333?style=for-the-badge&logo=markdown&logoColor=white)
